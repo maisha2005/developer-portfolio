@@ -6,7 +6,7 @@ h1{
     font-size: 50px;
 }
 h2{
-    font-size: 40px;
+    font-size: 45px;
 }
 .saddlebrown-color{
 color:saddlebrown;
@@ -52,4 +52,17 @@ color:saddlebrown;
     padding-left: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+}
+#web-dev-experience{
+    border-left:7px solid;
+    border-image: linear-gradient(blue,cyan) ;
+    border-image-slice:1;
+}
+#full-stack-experience{
+    border-left:7px solid;
+    border-image: linear-gradient(salmon,tomato) ;
+    border-image-slice:1;  
+}
+footer p {
+    text-align:center;
 }
