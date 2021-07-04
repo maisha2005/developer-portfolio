@@ -8,7 +8,7 @@ h1{
 .saddlebrown-color{
 color:saddlebrown;
 }
-section{
+.flexible-container{
     display:flex;
     margin-bottom: 150px;
 }
